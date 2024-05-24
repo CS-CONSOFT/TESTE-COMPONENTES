@@ -3,8 +3,8 @@ import './App.css';
 
 function Header() {
     return (
-        <div>
-            ISSO É UM HEADER IMPORTADO - TESTE 2
+        <div className='header'>
+            ISSO É UM HEADER IMPORTADO - AGNALDO
         </div>
     );
 }

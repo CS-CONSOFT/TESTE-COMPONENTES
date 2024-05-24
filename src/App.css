@@ -32,7 +32,25 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.header {
+  background-color: #4CAF50;
+  /* Cor de fundo verde */
+  color: white;
+  /* Cor do texto branca */
+  padding: 20px;
+  /* Espaçamento interno */
+  text-align: center;
+  /* Centraliza o texto */
+  font-size: 24px;
+  /* Tamanho da fonte */
+  font-family: Arial, sans-serif;
+  /* Família da fonte */
+  border-bottom: 2px solid #333;
+  /* Borda inferior */
 }

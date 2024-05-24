@@ -1,11 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function Header() {
     return (
         <div>
-            ISSO É UM HEADER IMPORTADO
+            ISSO É UM HEADER IMPORTADO - TESTE 2
         </div>
     );
 }
